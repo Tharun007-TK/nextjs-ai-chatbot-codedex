@@ -45,7 +45,7 @@
 
 | Chat Interface | Typing Indicator |
 |----------------|------------------|
-| ![Liza Chat Screenshot](public/screens/chat-ui.png) | ![Typing](public/screens/typing.gif) |
+| ![Liza Chat Screenshot](public/images/Chatbot-Ui.png) | ![Typing](public/images/simple.gif) |
 
 ---
 
