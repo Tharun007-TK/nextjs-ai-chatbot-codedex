@@ -43,9 +43,13 @@
 
 ## 📸 Screenshots
 
-| Chat Interface | Typing Indicator |
-|----------------|------------------|
-| ![Liza Chat Screenshot](public/images/Chatbot-Ui.png) | ![Typing](public/images/simple.gif) |
+| Chat Interface |
+|----------------|
+| ![Liza Chat Screenshot](public/images/Chatbot-Ui.png) |
+
+| Typing Indicator |
+|------------------|
+| ![Typing](public/images/simple.gif) |
 
 ---
 
