@@ -1,6 +1,5 @@
-
 <a href="https://liza-ai-chatbot-codedex-eapn7o39q-tharun007-tks-projects.vercel.app/">
-  <img alt="Liza AI Chatbot – powered by Next.js and OpenAI" src="public/liza-opengraph.png">
+  <img alt="Liza AI Chatbot – powered by Next.js and OpenAI" src="app/(chat)/opengraph-image.png">
   <h1 align="center">Liza AI Chatbot</h1>
 </a>
 
